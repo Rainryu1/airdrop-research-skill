@@ -26,7 +26,7 @@
 
 ## Audit every candidate against the safe and free gate
 
-- Read `~/workspace/custom-skills/safe_free_mint_gate/SKILL.md` first, then apply its gate before you show a preview or ask the user for a yes.
+- Read `~/workspace/custom-skills/safe_free_mint_gate/SKILL.md` first (or install the companion skill from https://github.com/Rainryu1/safe-free-mint-gate-skill), then apply its gate before you show a preview or ask the user for a yes.
 
 - Require Sourcify exact_match for the contract source, and require MintRadar to report no flags and no privileged function.
 

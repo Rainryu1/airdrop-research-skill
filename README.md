@@ -19,7 +19,7 @@ Then search for `airdrop research` in your agent skill list.
 
 ## Requirements
 
-- A companion `safe_free_mint_gate` skill for the final gate check (referenced by path in `SKILL.md`).
+- A companion `safe_free_mint_gate` skill for the final gate check (referenced by path in `SKILL.md`, also published at https://github.com/Rainryu1/safe-free-mint-gate-skill).
 - Public BSC RPC access for on-chain reads and simulations.
 - `baw` CLI (Binance Agentic Wallet) for contract-call previews.
 

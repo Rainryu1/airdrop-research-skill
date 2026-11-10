@@ -1,5 +1,5 @@
 name: "airdrop-research"
 title: "Airdrop Research"
-description: "Research crypto airdrops (testnet, instant, and event airdrops) for Binance Agent ID wallets: find candidates from radar and community sources, audit each one against the safe-and-free gate, and report only what passes, never auto-claiming or auto-minting."
+description: "Research crypto airdrops (testnet, instant, event, FCFS, and whitelist airdrops) for Binance Agent ID wallets across all networks: find candidates from radar and community sources, audit each one against the safe-and-free gate, and report only what passes, never auto-claiming or auto-minting."
 category: "Work and knowledge"
 include_in_prompt: true

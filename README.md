@@ -12,7 +12,7 @@ Research crypto airdrops (testnet, instant, and event airdrops) for Binance Agen
 ## Install
 
 ```bash
-git clone https://github.com/<username>/airdrop-research-skill ~/workspace/custom-skills/airdrop-research
+git clone https://github.com/Rainryu1/airdrop-research-skill ~/workspace/custom-skills/airdrop-research
 ```
 
 Then search for `airdrop research` in your agent skill list.
